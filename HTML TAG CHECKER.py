@@ -58,4 +58,3 @@ def checker(filename):
        
     return True
 print(checker('index.html'))
-print("")
